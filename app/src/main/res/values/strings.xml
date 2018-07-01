@@ -1,0 +1,103 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Title of the App [CHAR LIMIT=20] -->
+    <string name="app_name">Quiz App</string>
+
+    <!-- Main header and call to action [CHAR LIMIT=20] -->
+    <string name="introduction">Test Your Fire Safety IQ</string>
+
+    <!-- Content description for fire logo image [CHAR LIMIT=NONE] -->
+    <string name="fire_logo_meta">Fire logo</string>
+
+    <!-- Estimated time to finish quiz [CHAR LIMIT=20] -->
+    <string name="time_to_finish">Time to finish: 2 Minutes approx.</string>
+
+    <!-- Submit button text [CHAR LIMIT=NONE] -->
+    <string name="submit_button">Get Score</string>
+
+    <!-- Grade units for quiz. Quiz scores are measured in points. A quiz taker may score only one point per question [CHAR LIMIT=20] -->
+    <string name="grade_unit_singular">point</string>
+    <string name="grade_unit_plural">points</string>
+
+    <!-- Quiz score message displayed on the screen after user completes the quiz [CHAR LIMIT=20] -->
+    <string name="quiz_score_message">Your have scored <xliff:g example="10" id="quizScore">%d</xliff:g> <xliff:g example="point or points" id="gradeUnit">%s</xliff:g> out of 10.</string>
+
+    <!-- Quiz question 1 with four check box options. [CHAR LIMIT=20] -->
+    <string name="question_1_stub">Question 1 of 10</string>
+    <string name="question_1">Where should you aim the nozzle of a fire extinguisher when putting out a fire?</string>
+    <string name="option_1_1">A. At the center of the fire</string>
+    <string name="option_1_2">B. At the base of the fire</string>
+    <string name="option_1_3">C. At the top of the fire</string>
+    <string name="option_1_4">D. It doesn\'t matter as long as it is aimed at the fire</string>
+
+    <!-- Quiz question 2 with four check box options. [CHAR LIMIT=20] -->
+    <string name="question_2_stub">Question 2 of 10</string>
+    <string name="question_2">Which extinguisher should you use for fires caused by flammable liquids like petrol?\nSelect all that apply.</string>
+    <string name="option_2_1">A. Water</string>
+    <string name="option_2_2">B. Liquid Foam</string>
+    <string name="option_2_3">C. Carbon Dioxide</string>
+    <string name="option_2_4">D. Dry Powder</string>
+
+    <!-- Quiz question 3 with four check box options. [CHAR LIMIT=20] -->
+    <string name="question_3_stub">Question 3 of 10</string>
+    <string name="question_3">Which extinguisher should you use for burning wood or paper?\nSelect all that apply.</string>
+    <string name="option_3_1">A. Water</string>
+    <string name="option_3_2">B. Liquid Foam</string>
+    <string name="option_3_3">C. Carbon Dioxide</string>
+    <string name="option_3_4">D. Dry Powder</string>
+
+    <!-- Quiz question 4 with four check box options. [CHAR LIMIT=20] -->
+    <string name="question_4_stub">Question 4 of 10</string>
+    <string name="question_4">Which extinguisher should you use for electrical fires?\nSelect all that apply.</string>
+    <string name="option_4_1">A. Water</string>
+    <string name="option_4_2">B. Liquid Foam</string>
+    <string name="option_4_3">C. Carbon Dioxide</string>
+    <string name="option_4_4">D. Dry Powder</string>
+
+    <!-- Quiz question 5 with four radio button options. [CHAR LIMIT=20] -->
+    <string name="question_5_stub">Question 5 of 10</string>
+    <string name="question_5">When using a fire extinguisher, how far away from the fire should you stand?</string>
+    <string name="option_5_1">A. 2 to 4 feet</string>
+    <string name="option_5_2">B. 4 to 6 feet</string>
+    <string name="option_5_3">C. 6 to 8 feet</string>
+    <string name="option_5_4">D. 8 to 9 feet</string>
+
+    <!-- Quiz question 6 with four radio button options. [CHAR LIMIT=20] -->
+    <string name="question_6_stub">Question 6 of 10</string>
+    <string name="question_6">What does the symbol below tell you about a material?</string>
+    <string name="hazard_symbol_meta">Hazard symbol</string>
+    <string name="option_6_1">A. Material can cause other materials to burn quickly</string>
+    <string name="option_6_2">B. Material is flammable</string>
+    <string name="option_6_3">C. Material is corrosive</string>
+    <string name="option_6_4">D. Material is explosive</string>
+
+    <!-- Quiz question 7 with one editable text field for user input. [CHAR LIMIT=20] -->
+    <string name="question_7_stub">Question 7 of 10</string>
+    <string name="question_7">What three (3) elements are needed for fire to burn?</string>
+    <string name="question_7_1">Enter your answer</string>
+
+    <!-- Quiz question 7 - keywords expected in user's answer. Keywords must be in lowercase. [CHAR LIMIT=NONE] -->
+    <string name="keyword_1">fuel</string>
+    <string name="keyword_2">heat</string>
+    <string name="keyword_3">oxygen</string>
+
+    <!-- Quiz question 8 with four radio button options. [CHAR LIMIT=20] -->
+    <string name="question_8_stub">Question 8 of 10</string>
+    <string name="question_8">What does the fire safety sign below mean?</string>
+    <string name="safety_sign_meta">Fire safety sign</string>
+    <string name="option_8_1">A. Fire hose location</string>
+    <string name="option_8_2">B. Designated meeting point in the event of a fire</string>
+    <string name="option_8_3">C. Fire extinguisher location</string>
+    <string name="option_8_4">D. Fire alarm location</string>
+
+    <!-- Quiz question 9 with two radio button options. [CHAR LIMIT=20] -->
+    <string name="question_9_stub">Question 9 of 10</string>
+    <string name="question_9">Where a stairwell is unavailable during a fire you should exit the building quickly using an elevator if available.</string>
+    <string name="option_9_1">True</string>
+    <string name="option_9_2">False</string>
+
+    <!-- Quiz question 10 with two radio button options. [CHAR LIMIT=20] -->
+    <string name="question_10_stub">Question 10 of 10</string>
+    <string name="question_10">Dry sand may be used to fight small fires caused by inflammable liquids.</string>
+    <string name="option_10_1">True</string>
+    <string name="option_10_2">False</string>
+</resources>
