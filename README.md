@@ -17,9 +17,8 @@ can be scored. Quiz scores pop-up on the screen when the "Get Score" button is c
 Radio buttons, check boxes and text fields are used to capture user responses. The questions and correct responses are listed
 here: https://github.com/ngwebspinner/quizapp/blob/master/testing.txt.
 
-To keep code to a minimum, arrays and collections were used. This required reviewing the Java documentation and borrowing code snippets
-from sites like Stack Overflow. Specifically arrays and collections were used to store user responses and expected responses.
-Array and collection methods were also useful in comparing user responses with expected responses.
+To keep lines of code to a minimum, arrays and collections were used. This required reviewing the Java documentation and borrowing code snippets from sites like Stack Overflow. Specifically arrays and collections were used to store user responses and expected responses.
+Array and collection methods were also immensely useful for comparing user responses with expected responses.
 
 Grading Logic:
 
@@ -28,4 +27,4 @@ The grading logic is described here: https://github.com/ngwebspinner/quizapp/blo
 
 Attribution
 
-Fire warning sign image by OpenClipart-Vectors on Pixabay.com
+CC0 Fire warning sign image by OpenClipart-Vectors on Pixabay.com
