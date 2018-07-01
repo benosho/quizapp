@@ -23,4 +23,4 @@ Array and collection methods were also useful in comparing user responses with e
 
 Attribution
 
-Fire warning sign by OpenClipart-Vectors on Pixabay.com
+Fire warning sign image by OpenClipart-Vectors on Pixabay.com
